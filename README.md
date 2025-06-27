@@ -1,5 +1,4 @@
 # 🔬 HematoVision: Advanced Blood Cell Classification Using Transfer Learning
-# https://685b670f38b414e5037b933a--zingy-mooncake-e9ae3d.netlify.app/
 # ✨ Project Overview
 HematoVision is an innovative AI-powered web application designed for the precise and efficient classification of blood cells. Leveraging advanced deep learning techniques, particularly transfer learning, this project aims to assist pathologists and healthcare professionals in rapid diagnostics and research by automatically identifying different types of blood cells from uploaded images.
 
@@ -176,5 +175,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # Team Members: KADAPA ANJALI, K SAINATH REDDY and KALYANI GUDITI
 # Email: k3727733@gmail.com
 # Smart Bridge Internship: [https://apsche.smartinternz.com/Student/guided_project_workspace/42645]
-# Demolink: https://youtu.be/ih1wb5PCL9Y?feature=shared 
 Developed as part of the Smart Bridge AI Internship Program.
