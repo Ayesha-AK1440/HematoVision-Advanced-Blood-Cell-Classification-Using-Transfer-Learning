@@ -9,6 +9,7 @@ HematoVision is an innovative AI-powered web application designed for the precis
 This project was developed as part of the Smart Bridge Internship Program, focusing on applying Artificial Intelligence in the healthcare domain.
 
 🌟 Key Features
+
 Accurate Classification: Utilizes a fine-tuned CNN for high accuracy in identifying various blood cell types.
 
 Transfer Learning: Employs the MobileNetV2 architecture to ensure efficient training and robust performance.
