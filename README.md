@@ -72,15 +72,25 @@ pip install -r requirements.txt
 📂 Project Structure The project directory (C:\HematoVision) is organized as follows:
 
 HematoVision/
+
 app.py
+
 trained_model.h5
+
 requirements.txt
+
 static/(uploaded images will go here)
+
 templates/(index.html, result.html)
+
 dataset/(TRAIN, TEST, etc. folders)
+
 model/(Classification Report)
+
 plot
+
 README.md
+
 🚀 How to Run the Application Ensure all setup steps are completed (prerequisites and installation).
 
 Place your trained model file (trained_model.h5) directly in the C:\HematoVision root directory, next to app.py.
@@ -146,10 +156,14 @@ Cloud Deployment: Host the application on a public cloud platform (e.g., Heroku,
 
 📧 Contact
 
-TEAM ID:LTVIP2025TMID43363
-Project Lead: Karava Manoj Kumar Reddy
-Team Members: Kolla Manikanta, Kulagiri Indu Priya and Karuturi Mahendranadh Chowdhary
-Email: karavamanojkumarreddy@gmail.com
+TEAM ID:LTVIP2025TMID34807
+
+Project Lead: K AYESHA
+
+Team Members: KADAPA ANJALI, K SAINATH REDDY and KALYANI GUDITI
+
+Email: k3727733@Gmail.Com
+
 Smart Bridge Internship: [https://apsche.smartinternz.com/Student/guided_project_workspace/42645]
 Demolink: https://youtu.be/ih1wb5PCL9Y?feature=shared
 Developed as part of the Smart Bridge AI Internship Program.
