@@ -1,0 +1,2 @@
+# HematoVision-Advanced-Blood-Cell-Classification-Using-Transfer-Learning
+This project focuses on developing an intelligent system that automatically identifies and classifies different types of blood cells using deep learning. By applying transfer learning techniques to medical images of blood samples, the system can assist doctors and lab technicians in diagnosing blood-related diseases more accurately and efficiently.
