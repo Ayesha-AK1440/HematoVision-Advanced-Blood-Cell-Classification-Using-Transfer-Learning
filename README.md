@@ -1,4 +1,4 @@
-# 🔬 HematoVision: Advanced Blood Cell Classification
+# 🔬 HematoVision: Advanced Blood Cell Classification Using Transfer Learning
 # https://685b670f38b414e5037b933a--zingy-mooncake-e9ae3d.netlify.app/
 # ✨ Project Overview
 HematoVision is an innovative AI-powered web application designed for the precise and efficient classification of blood cells. Leveraging advanced deep learning techniques, particularly transfer learning, this project aims to assist pathologists and healthcare professionals in rapid diagnostics and research by automatically identifying different types of blood cells from uploaded images.
@@ -57,8 +57,8 @@ If you've downloaded files manually, navigate to your project folder in Anaconda
 
 git init
 # Configure your Git identity (one-time setup)
-git config --global user.email "karavamanojkumarreddy@gmail.com"
-git config --global user.name "KARAVA MANOJ KUMAR REDDY"
+git config --global user.email "k3727733@gmail.com"
+git config --global user.name "K AYESHA"
 
 Create a Dedicated Conda Environment (Recommended):
 Open Anaconda Prompt (as Administrator) and create a new environment to avoid dependency conflicts:
@@ -171,10 +171,10 @@ We welcome contributions to the HematoVision project! If you have suggestions or
 This project is licensed under the MIT License - see the LICENSE file for details (if you create one).
 
 📧 Contact
-# TEAM ID:LTVIP2025TMID43363
-# Project Lead: Karava Manoj Kumar Reddy
-# Team Members: Kolla Manikanta, Kulagiri Indu Priya and Karuturi Mahendranadh Chowdhary
-# Email: karavamanojkumarreddy@gmail.com
+# TEAM ID:LTVIP2025TMID34807
+# Project Lead: K AYESHA
+# Team Members: KADAPA ANJALI, K SAINATH REDDY and KALYANI GUDITI
+# Email: k3727733@gmail.com
 # Smart Bridge Internship: [https://apsche.smartinternz.com/Student/guided_project_workspace/42645]
 # Demolink: https://youtu.be/ih1wb5PCL9Y?feature=shared 
 Developed as part of the Smart Bridge AI Internship Program.
