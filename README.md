@@ -165,5 +165,7 @@ Team Members: KADAPA ANJALI, K SAINATH REDDY and KALYANI GUDITI
 Email: k3727733@Gmail.Com
 
 Smart Bridge Internship: [https://apsche.smartinternz.com/Student/guided_project_workspace/42645]
+
 Demolink: https://youtu.be/ih1wb5PCL9Y?feature=shared
+
 Developed as part of the Smart Bridge AI Internship Program.
